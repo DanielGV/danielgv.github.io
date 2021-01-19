@@ -1,0 +1,28 @@
+- company: Pricerunner
+  position: Backend software developer
+  timeline: March 2018 - Present
+  description: Developer of the core search and navigation functionality, popularity system and user behavior analysis. Main elasticsearch resource in the company, spreading its use among all development teams. Generation of data reports for PR and media articles.
+  tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kibana, Grafana, Gitlab, Prometheus, Python
+- company: Findwise
+  position: Consultant / Search technology specialist / Software developer
+  timeline: October 2012 - February 2018
+- company: Hennes och Mauritz H&M
+  position: System software developer
+  timeline: August 2014 - December 2017
+  description: Evaluation of different search platforms and built a search platform. Led a team of 6 developers to support and develop several systems. Developed several applications to visualize relevant information for manufacturing capacity controllers.
+  tags: Elasticsearch, .NET, ASP.NET MVC, .NET Core, Knockout, Azure Cloud Service, Azure AD, SQLServer, Exalead CloudView, Angular 2, TeamCity, Octopus Deploy, PowerShell
+- company: Forsmarks Kraftgrupp
+  position: Software developer
+  timeline: August 2015 - March 2016
+  description: Build a UX focused friendly application to have access and navigate information from more than 5 systems including several millions technical documents and incident reports. 
+  tags: Elasticsearch, .NET, ASP.NET MVC, Knockout
+- company: Försäkringskassan
+  position: Machine Learning Software developer
+  timeline: March 2013 - October 2013
+  description: Implementing search for internal tools used by call support to find insurance documents. Implementation of a connector that gets, processes, splits by chapters, classifies using machine learning, and finally indexes long PDF files.
+  tags: Apache Solr, Tika, PDFBox, Mallet, Java, SharePoint 2010, PDF
+- company: Stockholms Stad
+  position: Software architect
+  timeline: October 2012 - August 2014
+  description: Implementing advanced search for Stockholms Stad intranet using FAST ESP and later on migrating to Solr using the extended functionality of custom components around it  developed in .NET Framework).
+  tags: FAST ESP, Apache Solr, Java and .NET
