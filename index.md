@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Daniel Gomez villanueva
+title: Daniel Gomez Villanueva
 permalink: /
 header:
   overlay_color: "#000"
