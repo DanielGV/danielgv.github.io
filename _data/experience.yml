@@ -2,7 +2,7 @@
   position: Backend software developer
   timeline: March 2018 - Present
   description: Developer of the core search and navigation functionality, popularity system and user behavior analysis. Main elasticsearch resource in the company, spreading its use among all development teams. Generation of data reports for PR and media articles.
-  tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kibana, Grafana, Gitlab, Prometheus, Python
+  tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python
 - company: Findwise
   position: Consultant / Search technology specialist / Software developer
   timeline: October 2012 - February 2018
