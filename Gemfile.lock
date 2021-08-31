@@ -261,6 +261,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-include-cache
+  jekyll-seo-tag
 
 BUNDLED WITH
    2.2.0
