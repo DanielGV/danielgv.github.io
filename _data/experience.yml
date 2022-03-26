@@ -1,6 +1,11 @@
 - company: Pricerunner
+  position: Tech Lead Backend software developer
+  timeline: May 2021 - Present
+  description: Tech lead of the development team working with the core search and navigation functionality, popularity system and user behavior analysis. Leading development and designing solutions. Main elasticsearch resource in the company, advocating for its use and sharing knowledge among all development teams. Generation of data reports for media articles.
+  tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python
+- company: Pricerunner
   position: Backend software developer
-  timeline: March 2018 - Present
+  timeline: March 2018 - May 2021
   description: Developer of the core search and navigation functionality, popularity system and user behavior analysis. Main elasticsearch resource in the company, spreading its use among all development teams. Generation of data reports for PR and media articles.
   tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python
 - company: Findwise
