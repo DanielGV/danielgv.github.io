@@ -1,6 +1,11 @@
+- company: Klarna
+  position: Lead Engineer
+  timeline: April 2022 - Present
+  description: Lead Engineer of Search Engine team. Building the ground blocks for users to find products, deals, or anything related to the Shopping Experience in the Klarna app or websites. Accountable lead for the team, organizing work, synchonizing big initiatives within the organization.
+  tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python
 - company: Pricerunner
   position: Tech Lead Backend software developer
-  timeline: May 2021 - Present
+  timeline: May 2021 - April 2022
   description: Tech lead of the development team working with the core search and navigation functionality, popularity system and user behavior analysis. Leading development and designing solutions. Main elasticsearch resource in the company, advocating for its use and sharing knowledge among all development teams. Generation of data reports for media articles.
   tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python
 - company: Pricerunner
