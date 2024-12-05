@@ -1,7 +1,12 @@
 - company: Klarna
+  position: Accountable Group Lead
+  timeline: July 2024 - Present
+  description: Responsible for Klarna's Search & Compare group. Coordinator and prioriser of all work related to the pre-purchase Shopping Experience in the Klarna app and websites. Lead over 8 teams of App, Web, Backend engineers and Content Managers.
+  tags: Strategy, E-commerce, Leadership, Reporting, Google Analytics, Amplitude, Data modeling, OpenAI
+- company: Klarna
   position: Lead Engineer
-  timeline: April 2022 - Present
-  description: Lead Engineer of Search Engine team. Building the ground blocks for users to find products, deals, or anything related to the Shopping Experience in the Klarna app or websites. Accountable lead for the team, organizing work, synchonizing big initiatives within the organization.
+  timeline: April 2022 - June 2024
+  description: Product owner and Engineering Manager of Search Engine team. Building the ground blocks for users to find products, deals, or anything related to the Shopping Experience in the Klarna app or websites. Accountable lead for the team, organizing work, synchonizing big initiatives within the organization.
   tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python
 - company: Pricerunner
   position: Tech Lead Backend software developer
@@ -24,7 +29,7 @@
 - company: Forsmarks Kraftgrupp
   position: Software developer
   timeline: August 2015 - March 2016
-  description: Build a UX focused friendly application to have access and navigate information from more than 5 systems including several millions technical documents and incident reports. 
+  description: Build a UX focused friendly application to have access and navigate information from more than 5 systems including several millions technical documents and incident reports.
   tags: Elasticsearch, .NET, ASP.NET MVC, Knockout
 - company: Försäkringskassan
   position: Machine Learning Software developer
