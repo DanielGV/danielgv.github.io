@@ -6,8 +6,8 @@
 - company: Klarna
   position: Lead Engineer
   timeline: April 2022 - June 2024
-  description: Product owner and Engineering Manager of Search Engine team. Building the ground blocks for users to find products, deals, or anything related to the Shopping Experience in the Klarna app or websites. Successfully merged 2 teams and took over ownership of additional search services in the organization (Store search and Semantic Product Search). Introduced Data Scientists into the team. Build product recommendations in Klarna's ChatGPT plugin and supported Klarna's product recommendations AI Assistant. Accountable lead for the team, organizing work, synchonizing big initiatives within the organization.
-  tags: Elasticsearch, Gigaspaces XAP, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python
+  description: Product owner and Engineering Manager of the Search Engine team. Building the ground blocks for users to find products, deals, or anything related to the Shopping Experience in the Klarna app or websites. Successfully merged 2 teams and took over ownership of additional search services in the organization (Store search and Semantic Product Search). Introduced Data Scientists into the team. Build product recommendations in Klarna’s ChatGPT plugin and support Klarna’s product recommendations AI Assistant. Accountable lead for the team, organizing work, synchronizing big initiatives within the organization.
+  tags: Elasticsearch, Java, Spring, Maven, Consul, Nomad, Kafka, Kibana, Grafana, Gitlab, Prometheus, Docker, Python, Amplitude, Datadog, AWS CloudFormation, S3, Lambda
 - company: Pricerunner
   position: Tech Lead Backend software developer
   timeline: May 2021 - April 2022
