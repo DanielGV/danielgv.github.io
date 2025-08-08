@@ -1,6 +1,11 @@
 - company: Klarna
+  position: Principal Engineer
+  timeline: July 2025 - Present
+  description: Responsible for Klarna's Search common Databases. Aggregated data from all systems in the organization to enable retrieval by agents.
+  tags: Databases, Cassandra, Datastax, Opensearch, Semantic Search, Data modeling
+- company: Klarna
   position: Accountable Group Lead
-  timeline: July 2024 - Present
+  timeline: July 2024 - July 2025
   description: Responsible for Klarna's Search & Compare group. Coordinator and decision maker for all work related to the pre-purchase Shopping Experience in the Klarna app and websites. Expanded to 7 additional markets, moved traffic growth on core market from -10% to +20% YoY, integrated and built a Store directory with Partner data from other departments and revamped campaign pages. Lead over 8 teams of App, Web, Backend engineers and Content Managers.
   tags: Strategy, E-commerce, Leadership, Reporting, Google Analytics, Amplitude, Data modeling, OpenAI
 - company: Klarna
